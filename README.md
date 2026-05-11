@@ -63,4 +63,4 @@ aseprite_layers_rules/
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Pablo Henrick Diniz
+MIT License — Copyright (c) 2026 Pablo Henrick Diniz
